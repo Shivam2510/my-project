@@ -1,0 +1,19 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url(pic2.jpg);
+	background-size: cover;
+
+	background-position: center;
+}
+.signup-form
+{
+	width:300px;
+	background: #ffff;
+	padding: 20px;
+	margin: 8% auto 0;
+	text-align: center;
+
+}
